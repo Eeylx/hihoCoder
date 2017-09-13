@@ -1,2 +1,7 @@
-# hihoCoder
-[hihoCoder](http://www.hihocoder.com/)
+# [hihoCoder](http://www.hihocoder.com/)
+
+[1000](./1000%20-%20A+B/1000%20-%20A+B.md)
+
+[1014](./1014%20-%20Trie树/1014%20-%20Trie树.md)
+
+[1501](./1501%20-%20风格不统一如何写程序/1501%20-%20风格不统一如何写程序.md)
