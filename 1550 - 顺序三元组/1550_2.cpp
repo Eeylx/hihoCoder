@@ -28,7 +28,7 @@ int main() {
 			two += one;
 		}
 		else if (3 == temp) {
-			tree+=two;
+			tree += two;
 		}
 	}
 
